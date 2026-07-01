@@ -16,3 +16,4 @@ This project focuses on predicting credit card approvals using machine learning 
 2. Install necessary dependencies (e.g., `pip install -r requirements.txt` if available).
 3. Place `creditcard_data.csv` in the `data/` directory.
 4. Run `python app.py` to start the application.
+thank you
