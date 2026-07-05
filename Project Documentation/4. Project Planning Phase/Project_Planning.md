@@ -21,5 +21,4 @@
 ## Team & Roles
 | Name | Role |
 |---|---|
-| | |
-| | |
+| Shaik Khatija Bee | Team Lead |
